@@ -1,0 +1,26 @@
+# Ignore compiled binaries
+bin/
+obj/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+
+# Ignore logs and database files
+*.log
+*.sqlite
+
+# Ignore NuGet packages
+packages/
+
+# Ignore Visual Studio files
+.vscode
+.vs/
+*.sln.docstates
+*.suo
+*.userprefs
+
+# Ignore ReSharper and Rider files
+_ReSharper*/
+.idea/
