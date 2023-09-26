@@ -10,6 +10,9 @@ obj/
 # Ignore logs and database files
 *.log
 *.sqlite
+*.db
+*.db-shm
+*.db-wal
 
 # Ignore NuGet packages
 packages/
